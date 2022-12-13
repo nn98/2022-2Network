@@ -1,4 +1,6 @@
 package chap03.ex2a;
+
+
 class SumTask implements Runnable {
 	int from, to;
 	long result;
